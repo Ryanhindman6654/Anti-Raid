@@ -5,7 +5,7 @@
   "description": "Discord Anti Raid Bot.",
   "main": "raid.js",
   "scripts": {
-    "start": "nodemon raid.js"
+    "start": "node raid.js"
   },
   "dependencies": {
     "discord.js": "^12.3.1",
